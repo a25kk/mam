@@ -1,5 +1,6 @@
 // Styling for the footer
 footer {
+  background-color: $primary;
   padding: 25px 0;
   text-align: center;
   span.copyright {
@@ -13,6 +14,9 @@ footer {
     line-height: 40px;
     margin-bottom: 0;
     text-transform: none;
+    a {
+      color: #fff;
+    }
     @include heading-font;
   }
 }
