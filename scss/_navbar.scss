@@ -15,7 +15,7 @@
   }
   .navbar-brand {
     color: #fff;
-    @include script-font;
+    font-family: 'Vibur', cursive;
     &.active,
     &:active,
     &:focus,

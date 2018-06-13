@@ -31,7 +31,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 section {
@@ -63,7 +63,7 @@ section h3.section-subheading {
     padding: 150px 0;
   }
   section h2.section-heading {
-    font-size: 40px;
+    font-size: 60px;
     margin-top: 50;
     margin-bottom: 15px;
     color: #1C93C1;
@@ -71,13 +71,19 @@ section h3.section-subheading {
 }
 
 .btn {
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
 .btn-xl {
   font-size: 18px;
   padding: 20px 40px;
+}
+
+@media (min-width: 768px) {
+  .btn-xl {
+    font-size: 40px;
+  }
 }
 
 .btn-primary {
@@ -127,12 +133,12 @@ img::-moz-selection {
   color: white;
   border: 0;
   background-color: #1C93C1;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
   color: #fff;
-  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  font-family: 'Vibur', cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -145,7 +151,7 @@ img::-moz-selection {
   padding: 0.75em 0;
   letter-spacing: 1px;
   color: white;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -216,7 +222,7 @@ header.masthead .intro-text .intro-heading {
   margin-bottom: 25px;
   max-width: 400px;
   margin: 0 auto;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 header.masthead .intro-text .intro-heading img {
@@ -240,7 +246,7 @@ header.masthead .intro-text .intro-heading img {
     font-weight: 700;
     line-height: 75px;
     margin-bottom: 50px;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
   }
 }
 
@@ -660,27 +666,27 @@ section#contact .form-control:focus {
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
   color: #ced4da;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 18- */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 19+ */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
   color: #ced4da;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 footer {
@@ -690,18 +696,18 @@ footer {
 }
 
 footer span.copyright {
-  font-size: 90%;
+  font-size: 140%;
   line-height: 40px;
   text-transform: none;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 footer ul.quicklinks {
-  font-size: 90%;
+  font-size: 140%;
   line-height: 40px;
   margin-bottom: 0;
   text-transform: none;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
 }
 
 footer ul.quicklinks a {
