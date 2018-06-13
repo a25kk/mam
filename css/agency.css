@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Agency v4.1.1 (https://startbootstrap.com/template-overviews/agency)
+ * Start Bootstrap - Musik im alten Milchladen v4.1.1 (https://github.com/a25kk/mam)
  * Copyright 2013-2018 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/BlackrockDigital/mam/blob/master/LICENSE)
  */
 body {
   overflow-x: hidden;
@@ -31,7 +31,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 section {
@@ -71,7 +71,7 @@ section h3.section-subheading {
 }
 
 .btn {
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -133,7 +133,7 @@ img::-moz-selection {
   color: white;
   border: 0;
   background-color: #1C93C1;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
@@ -151,7 +151,7 @@ img::-moz-selection {
   padding: 0.75em 0;
   letter-spacing: 1px;
   color: white;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -222,7 +222,7 @@ header.masthead .intro-text .intro-heading {
   margin-bottom: 25px;
   max-width: 400px;
   margin: 0 auto;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 header.masthead .intro-text .intro-heading img {
@@ -246,7 +246,7 @@ header.masthead .intro-text .intro-heading img {
     font-weight: 700;
     line-height: 75px;
     margin-bottom: 50px;
-    font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+    font-family: 'Vibur', Helvetica, Arial, sans-serif;
   }
 }
 
@@ -666,27 +666,27 @@ section#contact .form-control:focus {
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
   color: #ced4da;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 18- */
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 19+ */
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
   color: #ced4da;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 footer {
@@ -699,7 +699,7 @@ footer span.copyright {
   font-size: 140%;
   line-height: 40px;
   text-transform: none;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 footer ul.quicklinks {
@@ -707,7 +707,7 @@ footer ul.quicklinks {
   line-height: 40px;
   margin-bottom: 0;
   text-transform: none;
-  font-family: 'Vibur', cursive, Helvetica, Arial, sans-serif;
+  font-family: 'Vibur', Helvetica, Arial, sans-serif;
 }
 
 footer ul.quicklinks a {

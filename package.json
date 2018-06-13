@@ -1,29 +1,28 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Musik im alten Milchladen",
+    "name": "mam",
     "version": "4.1.1",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Sarah Mettenleiter - Musik im alten Milchladen",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
-        "theme",
-        "template"
+        "theme"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
+    "homepage": "https://github.com/a25kk/mam",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/a25kk/mam/issues",
+        "email": "info@kreativkombinat.de"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Serge Davidov (http://kreativkombinat.de/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/a25kk/mam.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
