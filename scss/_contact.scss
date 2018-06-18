@@ -1,13 +1,9 @@
 // Styling for the contact section
 section#contact {
   background-color: #fff;
-  background-image: url('../img/bottom.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: bottom;
   padding-bottom: 50px;
   @media(min-width:768px) {
-    padding-bottom: 300px;
+    padding-bottom: 100px;
   }
   .section-heading {
     color: $primary;
@@ -51,4 +47,13 @@ section#contact {
     color: $gray-400;
     @include heading-font;
   }
+}
+
+section#data-protection {
+  background-color: #fff;
+  background-image: url('../img/bottom.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding-bottom: 250px;
 }

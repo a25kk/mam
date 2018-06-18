@@ -278,16 +278,12 @@ header.masthead .intro-text .intro-heading img {
 
 section#contact {
   background-color: #fff;
-  background-image: url("../img/bottom.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: bottom;
   padding-bottom: 50px;
 }
 
 @media (min-width: 768px) {
   section#contact {
-    padding-bottom: 300px;
+    padding-bottom: 100px;
   }
 }
 
@@ -341,6 +337,15 @@ section#contact :-ms-input-placeholder {
   font-weight: 700;
   color: #ced4da;
   font-family: 'Vibur', Helvetica, Arial, sans-serif;
+}
+
+section#data-protection {
+  background-color: #fff;
+  background-image: url("../img/bottom.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding-bottom: 250px;
 }
 
 footer {
